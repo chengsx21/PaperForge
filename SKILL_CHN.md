@@ -1,7 +1,7 @@
 ---
 name: paper-reading-zh
 description: >
-  Use this skill whenever a user wants to deeply read, analyze, understand, or summarize a research paper in Chinese. Triggers include: sharing an arXiv link, PDF, or paper title and asking for a Chinese-language breakdown; saying "帮我读这篇论文," "总结这篇论文," "分析这篇论文," "讲一下这篇文章," "帮我理解这篇paper," or anything implying the user wants deep understanding of an academic work delivered in Chinese. Also trigger when the user wants to critique, attack, or find weaknesses in a paper in Chinese, or when they want follow-up research ideas inspired by a paper. Applies across all technical domains. The goal is not passive summarization but active reconstruction of the author's reasoning, honest critique, and generative thinking — delivered in fluent, precise Chinese.
+  Use this skill when the user wants a Chinese-language deep reading of a research paper, preprint, or academic article. Trigger it when the user shares an arXiv link, PDF, OpenReview page, ACL Anthology link, paper title, abstract, or asks things like 帮我读这篇论文, 总结这篇论文, 分析这篇论文, 讲一下这篇文章, 帮我理解这篇 paper, or any request that asks for a paper to be explained, summarized, critiqued, challenged, or developed into follow-up research ideas in Chinese. This skill applies across technical and scientific domains, including machine learning, NLP, computer vision, systems, biology, physics, economics, and related areas. The goal is not to paraphrase the abstract. The goal is to reconstruct the authors' reasoning, explain the method clearly, evaluate the evidence, identify weak assumptions, and propose useful research directions in fluent, precise Chinese.
 
 ---
 
