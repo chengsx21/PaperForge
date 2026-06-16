@@ -8,25 +8,12 @@
 
 | File                                       | Description                                                  |
 | ------------------------------------------ | ------------------------------------------------------------ |
-| [`SKILL_CHN.md`](./SKILL_CHN.md)           | 中文版 Skill，适配 Claude Skill 系统，直接安装使用           |
-| [`SKILL_EN.md`](./SKILL_EN.md)             | English Skill, formatted for the Claude Skill system         |
-| [`System_Prompt.txt`](./System_Prompt.txt) | System Prompt，可直接粘贴到 ChatGPT / Claude 的自定义指令中使用 |
+| [`skill.md`](./skill.md)           | 中文版 Skill，适配 Claude/Codex Skill 系统，直接安装使用           |
 
 
 ## How to Use
 
-### Option A: Claude Skill（推荐）
-
-将 [`SKILL_CHN.md`](./SKILL_CHN.md) 或 [`SKILL_EN.md`](./SKILL_EN.md) 安装为 Claude Skill。安装后，在对话中直接发送论文链接或标题，Claude 会自动触发完整的12节分析流程。
-
-### Option B: System Prompt（GPT / Claude 通用）
-
-将 [`System_Prompt.txt`](./System_Prompt.txt) 的内容粘贴到：
-
-- **ChatGPT**：创建Project → Custom Instructions
-- **Claude**：Project Instructions
-
-然后在对话中发送论文链接、标题或 PDF，即可获得完整分析。
+将 [`skill.md`](./skill.md) 安装为 Claude/Codex Skill。安装后，在对话中直接发送论文链接或标题，Claude/Codex 会自动触发完整的 12 节分析流程。
 
 小红书帖子【用AI读论文两年半，我认为最好用的prompt - 幸运降临中】
 
